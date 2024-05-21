@@ -1,0 +1,32 @@
+{
+  "name": "Namaste-React",
+  "version": "1.0.0",
+  "description": "Namaste React 🚀",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "process": "^0.11.10"
+  },
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puneetuttam/Namste-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/puneetuttam/Namste-React/issues"
+  },
+  "homepage": "https://github.com/puneetuttam/Namste-React#readme",
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
